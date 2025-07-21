@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on AI-powered web applications and real-time systems.
-- 🌱 I’m learning **C++**, **System Design**, and preparing for technical interviews.
+- 🌱 I’m learning **java**, **System Design**, and preparing for technical interviews.
 - 💡 I love building scalable, efficient, and clean code.
 - 🌐 Based in **Tiruchirappalli, India**.
 - 📫 Reach me at: [navdeep638095@gmail.com](mailto:navdeep638095@gmail.com)
