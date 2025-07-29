@@ -15,13 +15,13 @@
 
 ### 🚀 Tech Stack
 **Languages:**  
-`Java` `C` `HTML` `CSS` `SQL` `JavaScript` 
+`Java` `C` `HTML` `CSS` `SQL`  
 
 **Libraries & Tools:**  
 `PyTorch` `React.js` `Git` `VS Code` `Intellij`
 
 **CS Fundamentals:**  
-`DSA` `OOPs` `DBMS` `Operating Systems`
+`DSA` `OOPs` 
 
 ---
 
