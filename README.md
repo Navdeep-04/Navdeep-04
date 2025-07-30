@@ -54,7 +54,7 @@ Developed a Blinkit-style grocery delivery app using tools like Cursor, Grok & C
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/navdeep-s-4a62052a4/)  
 [![GitHub](https://img.shields.io/badge/GitHub-gray?style=flat&logo=github)](https://github.com/Navdeep-04)
-[![LeetCode](https://img.shields.io/badge/LeetCode-yellow?style=flat&logo=leetcode)](https://leetcode.com/u/Navdeep11/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=flat&logo=leetcode)](https://leetcode.com/u/Navdeep11/)
 
 
 ---
