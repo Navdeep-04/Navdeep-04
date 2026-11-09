@@ -1,13 +1,13 @@
 # 👋 Hi there, I'm Navdeep S
 
-🎓 B.Tech Information Technology student at K. Ramakrishnan College of Engineering  
+🎓 B.Tech Information Technology graduate from K. Ramakrishnan College of Engineering  
 💻 Passionate Software Developer | Problem Solver | Tech Explorer
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on web applications and real-time systems.
-- 🌱 I’m learning **java**, **DSA**, and preparing for technical interviews.
+- 🔭 I’m currently working on Full Stack applications and real-time systems.
+- 🌱 I’m learning new techs and preparing for technical interviews.
 - 💡 I love building scalable, efficient, and clean code.
 - 📫 Reach me at: [navdeep638095@gmail.com](mailto:navdeep638095@gmail.com)
 
@@ -15,10 +15,10 @@
 
 ### 🚀 Tech Stack
 **Languages:**  
-`Java` `C` `HTML` `CSS` `SQL`  
+`Java` `JavaScript` `Python` `HTML` `CSS` `SQL`  
 
 **Libraries & Tools:**  
-`PyTorch` `React.js` `Git` `VS Code` `Intellij`
+`Node` `React.js` `Git` `Express` 
 
 **CS Fundamentals:**  
 `DSA` `OOPs` 
@@ -26,6 +26,8 @@
 ---
 
 ### 🛠️ Projects
+🔹 **[Learn Mate - Ai assisted Learning](#)**  
+Designed an AI assisted Learning platform to track and simplify learning.
 
 🔹 **[QR-Based Attendance Register System](#)**  
 Designed a digital attendance system using QR code tech to streamline manual processes.
@@ -40,7 +42,7 @@ Developed a Blinkit-style grocery delivery app using tools like Cursor, Grok & C
 
 ### 📜 Certifications
 - Zoho Creator Student Training – Zoho  
-- Java Full Stack Development – VEI Technologies  
+- Full Stack Development – Wipro  
 - Web Development – NIT Trichy  
 - Cloud Computing – NPTEL
 
